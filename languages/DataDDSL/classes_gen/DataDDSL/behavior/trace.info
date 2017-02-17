@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <root>
+    <file name="Aggregate_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDDSL.behavior.Aggregate_BehaviorDescriptor" />
+    </file>
+    <file name="And_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDDSL.behavior.And_BehaviorDescriptor" />
+    </file>
+    <file name="Betwean_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDDSL.behavior.Betwean_BehaviorDescriptor" />
+    </file>
+    <file name="Character_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDDSL.behavior.Character_BehaviorDescriptor" />
+    </file>
+    <file name="Component_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDDSL.behavior.Component_BehaviorDescriptor" />
+    </file>
+    <file name="DataDictionary_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDDSL.behavior.DataDictionary_BehaviorDescriptor" />
+    </file>
+    <file name="DateTime_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDDSL.behavior.DateTime_BehaviorDescriptor" />
+    </file>
+    <file name="Domain_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDDSL.behavior.Domain_BehaviorDescriptor" />
+    </file>
+    <file name="Field_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDDSL.behavior.Field_BehaviorDescriptor" />
+    </file>
+    <file name="Integer_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDDSL.behavior.Integer_BehaviorDescriptor" />
+    </file>
+    <file name="Jednako_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDDSL.behavior.Jednako_BehaviorDescriptor" />
+    </file>
+    <file name="Logical_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDDSL.behavior.Logical_BehaviorDescriptor" />
+    </file>
+    <file name="NotNull_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDDSL.behavior.NotNull_BehaviorDescriptor" />
+    </file>
+    <file name="OgranicenjeIzDomen_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDDSL.behavior.OgranicenjeIzDomen_BehaviorDescriptor" />
+    </file>
+    <file name="OgranicenjeProsto_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDDSL.behavior.OgranicenjeProsto_BehaviorDescriptor" />
+    </file>
+    <file name="Ogranicenje_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDDSL.behavior.Ogranicenje_BehaviorDescriptor" />
+    </file>
+    <file name="PredefineDomain_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDDSL.behavior.PredefineDomain_BehaviorDescriptor" />
+    </file>
+    <file name="Real_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDDSL.behavior.Real_BehaviorDescriptor" />
+    </file>
+    <file name="SemanticDomain_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDDSL.behavior.SemanticDomain_BehaviorDescriptor" />
+    </file>
+    <file name="Set_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDDSL.behavior.Set_BehaviorDescriptor" />
+    </file>
+    <file name="SlozenoOgranicenje_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDDSL.behavior.SlozenoOgranicenje_BehaviorDescriptor" />
+    </file>
+    <file name="StructureDef_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDDSL.behavior.StructureDef_BehaviorDescriptor" />
+    </file>
+    <file name="Structure_BehaviorDescriptor.java">
+      <unit at="11,0,14,0" name="DataDDSL.behavior.Structure_BehaviorDescriptor" />
+    </file>
+    <file name="VeceOd_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDDSL.behavior.VeceOd_BehaviorDescriptor" />
+    </file>
+  </root>
+</debug-info>
+

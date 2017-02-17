@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$USER_HOME$/Documents/MPS/Test4/DataDictionary-master/languages/DataDictionaryNew/DataDictionary.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/DataDDSL/DataDDSL.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/DataDDSLRecursion/DataDDSLRecursion.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/DataBictionaryMaster/DataBictionaryMaster.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/DataDDSLRecursionSolution/DataDDSLRecursionSolution.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/PlayGroun/PlayGroun.msd" folder="" />
+    </projectModules>
+  </component>
+</project>

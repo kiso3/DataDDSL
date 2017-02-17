@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <root>
+    <file name="AbstracField_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDDSLRecursion.behavior.AbstracField_BehaviorDescriptor" />
+    </file>
+    <file name="Field_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDDSLRecursion.behavior.Field_BehaviorDescriptor" />
+    </file>
+    <file name="Root_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDDSLRecursion.behavior.Root_BehaviorDescriptor" />
+    </file>
+    <file name="StructureDef_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDDSLRecursion.behavior.StructureDef_BehaviorDescriptor" />
+    </file>
+    <file name="Stucture_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="DataDDSLRecursion.behavior.Stucture_BehaviorDescriptor" />
+    </file>
+  </root>
+</debug-info>
+

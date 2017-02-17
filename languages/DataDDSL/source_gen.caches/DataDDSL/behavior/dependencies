@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="DataDDSL.behavior.Aggregate_BehaviorDescriptor" file="Aggregate_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDDSL.behavior.And_BehaviorDescriptor" file="And_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDDSL.behavior.Betwean_BehaviorDescriptor" file="Betwean_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDDSL.behavior.Character_BehaviorDescriptor" file="Character_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDDSL.behavior.Component_BehaviorDescriptor" file="Component_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDDSL.behavior.DataDictionary_BehaviorDescriptor" file="DataDictionary_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDDSL.behavior.DateTime_BehaviorDescriptor" file="DateTime_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDDSL.behavior.Domain_BehaviorDescriptor" file="Domain_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDDSL.behavior.Field_BehaviorDescriptor" file="Field_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDDSL.behavior.Integer_BehaviorDescriptor" file="Integer_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDDSL.behavior.Jednako_BehaviorDescriptor" file="Jednako_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDDSL.behavior.Logical_BehaviorDescriptor" file="Logical_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDDSL.behavior.NotNull_BehaviorDescriptor" file="NotNull_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDDSL.behavior.OgranicenjeIzDomen_BehaviorDescriptor" file="OgranicenjeIzDomen_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDDSL.behavior.OgranicenjeProsto_BehaviorDescriptor" file="OgranicenjeProsto_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDDSL.behavior.Ogranicenje_BehaviorDescriptor" file="Ogranicenje_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDDSL.behavior.PredefineDomain_BehaviorDescriptor" file="PredefineDomain_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDDSL.behavior.Real_BehaviorDescriptor" file="Real_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDDSL.behavior.SemanticDomain_BehaviorDescriptor" file="SemanticDomain_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDDSL.behavior.Set_BehaviorDescriptor" file="Set_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDDSL.behavior.SlozenoOgranicenje_BehaviorDescriptor" file="SlozenoOgranicenje_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDDSL.behavior.StructureDef_BehaviorDescriptor" file="StructureDef_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="DataDDSL.behavior.Structure_BehaviorDescriptor" file="Structure_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+  </dependency>
+  <dependency className="DataDDSL.behavior.VeceOd_BehaviorDescriptor" file="VeceOd_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+</dependenciesRoot>
+
